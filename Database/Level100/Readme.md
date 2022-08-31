@@ -26,6 +26,10 @@ How-to Guide https://aws.amazon.com/getting-started/hands-on/create-mariadb-db/
 
 How-to Guide https://aws.amazon.com/getting-started/hands-on/create-microsoft-sql-db/
 
+##  Enable Microsoft SQL Server Business Intelligence features (SSAS, SSRS, SSIS) on Amazon RDS for SQL Server
+
+How-to Guide https://aws.amazon.com/getting-started/hands-on/enable-business-intelligence-features-amazon-rds-sql-server/?trk=gs_card
+
 ## Configure and Connect to Serverless MySQL Database
 
 How-to Guide https://aws.amazon.com/getting-started/hands-on/configure-connect-serverless-mysql-database-aurora/
@@ -44,7 +48,11 @@ How-to Guide https://aws.amazon.com/getting-started/hands-on/aurora-cloning-back
 
 ## Auto scaling a MySQL database to meet fluctuating application demands with Aurora
 
-How-to guide https://aws.amazon.com/getting-started/hands-on/aurora-autoscaling-with-readreplicas/
+How-to Guide https://aws.amazon.com/getting-started/hands-on/aurora-autoscaling-with-readreplicas/
+
+## Fast cross-region disaster recovery and low-latency global reads with Amazon Aurora Global Database
+
+How-to Guide https://aws.amazon.com/getting-started/hands-on/aurora-global-database/
 
 ### Intermediate 
 
