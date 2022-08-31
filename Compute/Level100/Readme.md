@@ -25,3 +25,7 @@ How-to Guide https://aws.amazon.com/getting-started/hands-on/migrating-a-wp-webs
 
 # Elastic Beanstalk
 
+# EC2
+
+## Deploy a Web Application on Amazon EC2 using CDK 
+How-to Guide https://aws.amazon.com/getting-started/guides/deploy-webapp-ec2/
